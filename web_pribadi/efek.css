@@ -1,0 +1,16 @@
+.link a{
+	background: rgb(251,160,122); width: 50px;
+}
+.link a:link{
+	color: black;
+}
+.link a:visited{
+	color: #BC8F8F
+}
+.link a:hover{
+	color: #FF0000;
+}
+.link p{
+		padding-bottom: 30%;
+		padding-left: 10%;
+	}
